@@ -4,11 +4,11 @@ Celestial coordinate system convert
  * <p>项目名称：Transfer
  * <p>项目作用：对坐标进行转换。可将赤道坐标系，黄道坐标系，银道坐标系，超星系坐标系进行相互转换<a
  * <p>输入单位：经度（角度制） 纬度（角度制）<a
- *
+ 
  * <p>项目版本：1.1
  * <p>项目作者：赖海斌
- *
- * <p>参考文献：
+ 
+   <p>参考文献：
  * <p><a href="https://www.iau.org/public/themes/naming_stars/">Naming Stars IAU 恒星命名</a>
  * <p><a href="https://docs.astropy.org/en/stable/coordinates/index.html#module-astropy.coordinates">astropy关于 Astronomical Coordinate Systems的介绍</a>
  * <p><a href="https://blog.csdn.net/weixin_43990846/article/details/117912880">天文坐标系转换   作者：Persus</a>
