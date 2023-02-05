@@ -18,6 +18,8 @@ import static java.lang.StrictMath.*;
  * <p><a href="https://blog.csdn.net/casularm/article/details/302811">赤道和银道坐标转换公式  作者：casularm</a>
  * <p><a href="https://blog.sciencenet.cn/blog-117333-258897.html">坐标变换  作者：钱磊</a>
  * <p><a href="https://zh.wikipedia.org/zh-cn/%E5%9C%B0%E5%B9%B3%E5%9D%90%E6%A8%99%E7%B3%BB">Wiki地平坐标系</a>
+ *<p>
+ * <p>GitHub：<a href="https://github.com/Laihb1106205841/Celestial-coordinate-system-Convert">Celestial coordinate system convert</a>
  *
  * **/
 public class Transfer {
