@@ -19,7 +19,7 @@ public class Main {
         Transfer.GalacticConvertEquatorial(248.152,48.382);
         Transfer a1 =new Transfer(1,1,true);
         a1.ConvertEquatorial();
-        Transfer.convertEcliptic(135,147);
+        Transfer.convertEcliptic(135,150);
 
 
 
